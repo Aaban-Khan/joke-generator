@@ -84,7 +84,7 @@ def main():
             
         else:
             print("❗Please enter 'y' or 'n'")
-            time.sleep(1)
+            time.sleep(1.2)
             continue
 
 if __name__ == "__main__":
